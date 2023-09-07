@@ -1,0 +1,7 @@
+# Data folder
+data
+data/
+
+# Checkpoints folder
+checkpoints
+checkpoints/
